@@ -1,0 +1,18 @@
+# BLOG POSTS FOR ALTERNATE REALITIES
+
+## January 30th - Environments
+
+
+Even if you spend your whole day walking and exploring the city of Daegu,
+the chances are that you will not come across a small stream called "Shincheon".
+The stream is of such ambiguous size so that one would definitely need a bridge to cross it, but not quite big enough to qualify
+as a river. This place brings me a peace of mind, one that I can just smile about imagining.
+
+
+Being a stream, it comes with none of the overwhelming surroundings that comes with a big body of water in Korea -- no food vendors yelling,
+no boats, no fishing enthusiasts, and no picniking families and their food trash remnants. Just simple, clear stream, and a couple of elderlies
+here and there going about their daily exercise routines. Whenever I sit by the side, or just simply take a stroll around the stream, if I try hard enough
+I can hear silence, as absurd as it is in the middle of a metropolitan area. The juxtaposition of silence and calm in the Sincheon, as opposed to the
+busy lives visible in the city, it creates an other-worldly feeling that I cherish so deeply.
+
+
