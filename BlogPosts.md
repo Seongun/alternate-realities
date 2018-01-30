@@ -1,4 +1,4 @@
-# BLOG POSTS FOR ALTERNATE REALITIES
+# Blog Posts for Alternate Realities
 
 ## January 30th - Environments
 
