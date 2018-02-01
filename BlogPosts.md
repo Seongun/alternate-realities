@@ -1,5 +1,15 @@
 # Blog Posts for Alternate Realities
 
+
+## February 1st - Project 1 Ideas
+
+
+Ever since reading a book called the "The Number Devil", I was fascinated by the concept of Penrose stairs.
+In this project, I hope to create a Penrose stairs, creating an environment in which the procedure of continually walking down the stairs create a sense of entrapment. I hope to create the "twist" if a user just stops walking and stairs away into a random place for a long enough time, by which the user can escape this endless loop.
+
+
+
+
 ## January 30th - Environments
 
 
