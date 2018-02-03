@@ -4,10 +4,10 @@
 ## February 1st - Project 1 Ideas
 
 
-Ever since reading a book called the "The Number Devil", I was fascinated by the concept of Penrose stairs.
-In this project, I hope to create a Penrose stairs, creating an environment in which the procedure of continually walking down the stairs create a sense of entrapment. I hope to create the "twist" if a user just stops walking and stairs away into a random place for a long enough time, by which the user can escape this endless loop.
+Ever since reading a book called the "The Number Devil", I was fascinated by the concept of Penrose stairs. The hypnotic idea of a physical impossibility lures me in, as a metaphor for the endless stairs and loops in which we climb to perhaps attain the same height that we stay at. 
+In this project, I hope to create(or somehow simulate) a Penrose stairs, creating an environment in which the procedure of continually walking down the stairs create a sense of entrapment. The user will be able to interact with the environment by looking at the next stair, by which they will continually move downwards, slowly realizing that the stairs in fact make a complete loop. I hope to create the "twist" if a user just stops walking and stairs away into a random place for a long enough time, by which the user can escape this endless loop, and be transported to another platform way above.
 
-
+![text](https://i.ytimg.com/vi/E7e_9QbA7l0/maxresdefault.jpg)
 
 
 ## January 30th - Environments
