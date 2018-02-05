@@ -3,6 +3,15 @@
 
 ## February 5th -  Interaction
 
+A type of interaction that I have been taken by these days is that between online broadcasting jockeys, and their viewers. The interaction usually goes as follows: the jockey will do some attention grabbing action, depending on the their specialization. The viewers chat on a public room in real time with the jockey, communicating and often influencing the very nature of what takes place on the broadcast. 
+
+
+A particular form of such interaction that I enjoy greatly is that of 먹방, or "meokbang", which roughly translates into "eating broadcast". It involves usually a single jockey interacting with the viewers as they consume an insane amount of food in one seating. In terms of the practical steps, in necessitates an inhumane appetite on part of the jockey, as well as a huge amount of food and a bunch of people willing to watch such a show.
+
+As I've never been on the other side of the broadcast, I cannot attest much to the feeling from the jockey's side. However, there is a great satisfaction that comes from the viewer's side. It's unreal given that the viewer has no direct consumption of any food during the interaction itself. The act of just watching so much food being consumed is glorious. As the jockey's role involves not only eating, but also continuing the conversation between the individual viewers, the viewer feels included in the feat that is acheived. There is also another form of interaction through monetary payment throughout the viewing of the show, which is called the "Byeol Poongsun", the online currency on the broadcasting platform. By sending out this currency, the users indicate their pleasure and content with which the way the broadcast is taking place. 
+
+After the interaction, the viewer is likely to feel quite hungry (at least in my personal experience). 
+
 [![image alt text](https://i.ytimg.com/vi/-iB5PANA_T8/maxresdefault.jpg)](https://www.youtube.com/watch?v=-iB5PANA_T8)
 
 
