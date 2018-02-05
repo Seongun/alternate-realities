@@ -1,7 +1,12 @@
 # Blog Posts for Alternate Realities
 
 
-## February 1st - Project 1 Ideas
+## February 5th -  Interaction
+
+[![image alt text](https://i.ytimg.com/vi/-iB5PANA_T8/maxresdefault.jpg)](https://www.youtube.com/watch?v=-iB5PANA_T8)
+
+
+## February 1st - Project 1 Concepts
 
 
 Ever since reading a book called the "The Number Devil", I was fascinated by the concept of Penrose stairs. The hypnotic idea of a physical impossibility lures me in, as a metaphor for the endless stairs and loops in which we climb to perhaps attain the same height that we stay at. 
