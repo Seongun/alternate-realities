@@ -333,7 +333,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myBaloon: {fileID: 1456849226951824, guid: 4869ee5de759a4bd593734790c613961, type: 2}
-  numBalloons: 4
+  numBalloons: 10
 --- !u!4 &1741088344
 Transform:
   m_ObjectHideFlags: 0

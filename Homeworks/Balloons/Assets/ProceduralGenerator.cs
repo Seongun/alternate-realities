@@ -8,6 +8,8 @@ public class ProceduralGenerator : MonoBehaviour {
 	public int numBalloons;
 	GameObject[] all_Baloons;
 
+
+
 	// Use this for initialization
 	void Start () {
 
@@ -18,7 +20,9 @@ public class ProceduralGenerator : MonoBehaviour {
 			for (int j = 0; j < numBalloons; j++) {
 
 				float newy = Mathf.PerlinNoise (i * 0.1f, j * 0.1f) * 20.0f;
-				all_Baloons[i*numBalloons +j ] = GameObject.Instantiate(myBaloon, new Vector3( i- numBalloons/2, newy, j-numBalloons/2), Quaternion.identity );
+
+				//Random.Range(-10.0f, 10.0f),
+				all_Baloons[i*numBalloons +j ] = GameObject.Instantiate(myBaloon, new Vector3( Random.Range(-10.0f, 10.0f), newy,Random.Range(-10.0f, 10.0f)), Quaternion.identity );
 
 			}
 		}
