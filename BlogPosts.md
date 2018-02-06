@@ -20,7 +20,7 @@ After the interaction, the viewer is likely to feel quite hungry (at least in my
 So far the steps have been generated as separate blocks that will differ in their heights.
 The exact natures of what they would be acting in is to be determined. The steps that the user stays on will be changed in color.
 
-![alt text](https://ibb.co/cD5etx "Unity Screenshot")
+![alt text](https://image.ibb.co/cMocfc/Screen_Shot_2018_02_06_at_14_43_32.png "Unity Screenshot")
 
 
 
