@@ -1,7 +1,8 @@
 # Blog Posts for Alternate Realities
 
+## February 5th -  Interaction & Environment Screenshot
+#### Interaction
 
-## February 5th -  Interaction
 
 A type of interaction that I have been taken by these days is that between online broadcasting jockeys, and their viewers. The interaction usually goes as follows: the jockey will do some attention grabbing action, depending on the their specialization. The viewers chat on a public room in real time with the jockey, communicating and often influencing the very nature of what takes place on the broadcast. 
 
@@ -13,6 +14,14 @@ As I've never been on the other side of the broadcast, I cannot attest much to t
 After the interaction, the viewer is likely to feel quite hungry (at least in my personal experience). 
 
 [![image alt text](https://i.ytimg.com/vi/-iB5PANA_T8/maxresdefault.jpg)](https://www.youtube.com/watch?v=-iB5PANA_T8)
+
+#### Environment Screenshot
+
+So far the steps have been generated as separate blocks that will differ in their heights.
+The exact natures of what they would be acting in is to be determined. The steps that the user stays on will be changed in color.
+
+![alt text](https://ibb.co/cD5etx "Unity Screenshot")
+
 
 
 ## February 1st - Project 1 Concepts
