@@ -12,14 +12,13 @@ public class StairCaseBehavior : MonoBehaviour {
 	void Start () {
 		
 		stairWays = new GameObject[4];
-		Debug.Log ("two");
 
 		for (int i = 0; i < 4; i++) {
 			
 			stairWays[i] = GameObject.Instantiate (
 				myStairWay, 
 				Vector3.zero, 
-				Quaternion.identity
+				Quaternion.identity	
 			);
 			
 			stairWays[i].GetComponent<stairWayBehavior> ().numSteps = numSteps;
@@ -32,6 +31,8 @@ public class StairCaseBehavior : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
+
+
 		
 	}
 }

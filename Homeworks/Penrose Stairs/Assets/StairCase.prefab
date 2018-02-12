@@ -34,7 +34,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1453650576060236}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 20, y: 22, z: 20}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -51,5 +51,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5e9d37ae41267400d90529ee49d481ae, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  myStairWay: {fileID: 0}
+  myStairWay: {fileID: 1504951566431056, guid: 79e7b31de0ab542e79d52a573cb22a8c, type: 2}
   numSteps: 20

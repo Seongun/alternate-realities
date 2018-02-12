@@ -53,5 +53,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   numSteps: 0
   stairWayNumber: 0
-  stairStep: {fileID: 0}
+  stairStep: {fileID: 1289615551411272, guid: 63cb8a82b9865451999fb8b933fc1fe8, type: 2}
   stairPlatform: {fileID: 0}
