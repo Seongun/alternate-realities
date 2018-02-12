@@ -34,14 +34,16 @@ public class stairWayBehavior : MonoBehaviour {
 		
 		stairSteps = new GameObject[numSteps+1];
 		startingXZ= new int[] {stairWayNumber>1?numSteps:0, stairWayNumber==1 || stairWayNumber==2 ?numSteps:0 };
-
-
+		Vector3 temp;
 		//generate steps for this stairway
 		for (int i = 0; i < numSteps; i++) {
+			temp = new Vector3 (startingXZ [0] + nextStep [stairWayNumber, 0] * i, stepHeightCalc (i, true, (float)stairWayNumber * (float)numSteps / 2, 0.5f), startingXZ [1] + nextStep [stairWayNumber, 1] * i);
 
-			stairSteps [i] = GameObject.Instantiate (stairStep, 
-				new Vector3 (startingXZ [0] + nextStep [stairWayNumber, 0] * i, stepHeightCalc (i, true, (float)stairWayNumber * (float)numSteps / 2, 0.5f), startingXZ [1] + nextStep [stairWayNumber, 1] * i), 
-				Quaternion.identity);
+			stairSteps [i] = GameObject.Instantiate (stairStep, temp, Quaternion.identity);
+			stairSteps [i].gameObject.GetComponent<stepBehavior> ().stepNumber = i;
+			stairSteps [i].gameObject.GetComponent<stepBehavior> ().stairWay = stairWayNumber;
+			stairSteps [i].gameObject.GetComponent<stepBehavior> ().stepPosition = temp;
+
 
 		}
 

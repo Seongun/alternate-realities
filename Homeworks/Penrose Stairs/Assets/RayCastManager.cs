@@ -3,18 +3,15 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class RayCastManager : MonoBehaviour {
-	Camera mainCamera;
+	public float speed;
 	public float raycastDistance;
 //	public float timer;
-	float speed;
 
 	// Use this for initialization
 	void Start () {
+		speed = 2.0f;
 
 
-		mainCamera = Camera.main;
-		speed = 0.5f;
-//		mainCamera.enabled = true;
 
 	}
 	
@@ -40,16 +37,9 @@ public class RayCastManager : MonoBehaviour {
 
 		if(Physics.Raycast(transform.position, fwd, out hit, raycastDistance)){
 			
-//			Debug.Log ("hit object: " + hit.collider.gameObject.name);
 			hit.collider.gameObject.GetComponent<Renderer> ().material.color = Color.red;
-
-
-			Debug.Log( hit.collider.gameObject.GetComponent<stepBehavior>().stepPosition);
-
-
-
-
-
+			transform.position = Vector3.Lerp(transform.position, new Vector3 (hit.collider.gameObject.transform.position.x, hit.collider.gameObject.transform.position.y + 2.0f, hit.collider.gameObject.transform.position.z), Time.deltaTime * speed);
+		
 		}	
 	}
 }

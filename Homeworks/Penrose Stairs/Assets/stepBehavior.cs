@@ -5,7 +5,8 @@ using UnityEngine;
 public class stepBehavior : MonoBehaviour {
 
 	public Vector3 stepPosition;
-
+	public int stairWay;
+	public int stepNumber;
 
 	// Use this for initialization
 	void Start () {
