@@ -5,30 +5,50 @@ using UnityEngine;
 public class RayCastManager : MonoBehaviour {
 	public float speed;
 	public float raycastDistance;
+	float raycastNirvanaDistance;
 	public float maxHeight;
 	bool setFirst = false;
 //	public float timer;
 	Color[] colors = new Color[5] {Color.red, Color.blue,  Color.black, Color.green, Color.white};
 	int colorCnt;
+	LayerMask nirvanaLayerMask;
 	GameObject currStep;
 	int currStepValue;
 	// Use this for initialization
 	void Start () {
+		
+		raycastNirvanaDistance = 1000.0f;
 		colorCnt = 0;
 		speed = 2.0f;
-		maxHeight = 40.0f;
-//		currStepValue = 14 + 20 * 1;
+		maxHeight = 38.0f;
+		nirvanaLayerMask = 8;
 	
 	}
 	
 	// Update is called once per frame
 	void Update () {
 
-		Raycasting ();
-		
+		RaycastingSteps ();
+		RaycastingNirvana ();
 	}
 
-	void Raycasting(){
+	void RaycastingNirvana(){
+	
+		Vector3 fwd = GetComponentInChildren<Camera> ().transform.TransformDirection (Vector3.forward);
+		RaycastHit hit = new RaycastHit ();
+
+
+		//we hit something
+		if( Physics.Raycast(transform.position, fwd, out hit, raycastNirvanaDistance, nirvanaLayerMask )  ){
+
+			Debug.Log ("HITTING NIRVANA!");
+		
+
+		}	
+			
+	}
+
+	void RaycastingSteps(){
 		Vector3 fwd = GetComponentInChildren<Camera> ().transform.TransformDirection (Vector3.forward);
 		RaycastHit hit = new RaycastHit ();
 
@@ -51,7 +71,6 @@ public class RayCastManager : MonoBehaviour {
 				currStep = hit.collider.gameObject;
 
 				if (hittingStepValue == (currStepValue + 1) % 80 ){	
-					Debug.Log (currStep.GetComponent<Renderer> ().material.GetColor ("_Color"));
 					//convert the block color to the next one
 					if (currStep.GetComponent<Renderer> ().material.GetColor("_Color") == (Color)colors[colorCnt]) {
 						colorCnt= (colorCnt+ 1) % 5;

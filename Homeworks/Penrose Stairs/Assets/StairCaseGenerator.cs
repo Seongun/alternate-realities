@@ -5,10 +5,14 @@ using UnityEngine;
 public class StairCaseGenerator : MonoBehaviour {
 
 	public GameObject myStairCase;
+	public GameObject myNirvana;
 
 	// Use this for initialization
 	void Start () {
+		
 		GameObject.Instantiate (myStairCase, Vector3.zero, Quaternion.identity);
+		GameObject.Instantiate (myNirvana, new Vector3 (10, 40, 10), Quaternion.identity);
+
 	}
 	
 	// Update is called once per frame
