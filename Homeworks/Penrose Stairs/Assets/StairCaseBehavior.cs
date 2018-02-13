@@ -6,7 +6,7 @@ public class StairCaseBehavior : MonoBehaviour {
 
 	public GameObject myStairWay;
 	public int numSteps;
-	GameObject[] stairWays;
+	public GameObject[] stairWays;
 
 	// Use this for initialization
 	void Start () {

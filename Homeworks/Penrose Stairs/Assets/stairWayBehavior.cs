@@ -20,7 +20,7 @@ public class stairWayBehavior : MonoBehaviour {
 //	public int stepSize;
 	public GameObject stairStep;
 	//we will determine later if we need this separately.
-	GameObject[] stairSteps;
+	public GameObject[] stairSteps;
 
 
 	//determine a function to calculate the value of the stepHeight
