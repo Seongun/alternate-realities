@@ -2,7 +2,7 @@
 
 ## February 15th -  Second Project Idea
 
-For the second project, I'm thinking of a project in which the user becomes a star traveller. I've always loved watching the night sky, and have wondered what the world would be like from up there. This longing intensified while reading "The Little Prince", while imagining a little boy travelling between stars and planets of different sizes and shapes.
+For the second project, I'm thinking of an interaction system in which the user becomes a star traveller. I've always loved watching the night sky, and have wondered what the world would be like from up there. This longing intensified while reading "The Little Prince", while imagining a little boy travelling between stars and planets of different sizes and shapes.
 
 
 In this project, I intend to give user a "Protheseus" like environment in which the user can travel to different planets and stars, accompanied by a little fox. The user will be able to interact with unique and distinct aspects of each star environment. Each star environment will include not only unique visual environment, but also physical distortions and unexpected interactions resulting from the distortion. The user will be provided utmost freedom to travel to different places, by raycasting and in a way soaring to one's destination. The goal is to provide an inviting and exciting environment for the user to explore. 
