@@ -1,5 +1,21 @@
 # Blog Posts for Alternate Realities
 
+## March 13th -  Third Project Idea
+
+
+For the final project, I want to create a VR environment in which cooperation with other players is key to success. For some time I have been fascinated by a game called "Keep Talking and Nobody Explodes". It's a game in which a lay person is locked inside a room with a time bomb, and must diffuse it with the help of experts who has a manual for deactivating the bomb. The neat thing is, the expert cannot see or interact with the bomb, so they must literally continue talking in order to make sure the bomb is diffused.
+
+![alt text](https://www.playstation.com/en-us/games/keep-talking-and-nobody-explodes-ps4/ "Keep Talking and Nobody Explodes")
+
+However, in this experience, only the player in the bomb room is experiencing the VR, and the rest of the players are just sitting around and reading a manual. The manual itself is also fixed, so if a player plays the game enough times, there is no real need for any cooperations as the player can simply just remember all of the necessary information.
+
+I want to create a similar but different experience in which a person in a commercial aircraft experiences that the pilot has died of a heartattack when a bird hits the airplane window. In order to successfully land the plane and save the passengers on board, the person(here on called the pilot) must communicate accurately with the person on the control tower, who luckily knows how to control the aircraft. The twist is, because the aircraft's window cracked when the bird hit (yes, unrealistic), the pilot must get feedback from the control tower to tell if the plane is going in the right direction. 
+This will provide a two way interaction between the control tower and the pilot, as the control tower must now both relay the information of how to fly the plane, but also accurately assess whether the plane is flying correctly due to the actions told.
+
+The interactions that can be present in this game are quite simple, as in that the pilot will have to maneuver the plane, while the control tower must track the plane and figure out how to land it, through communicating and flipping through manual.
+
+If additional spectators are present, I believe that they can be co-pilots or control tower assistant, by which they could either aid in the role or just simply sit back and enjoy the efforts the players make.
+
 ## February 15th -  Second Project Idea
 
 For the second project, I'm thinking of an interaction system in which the user becomes a star traveller. I've always loved watching the night sky, and have wondered what the world would be like from up there. This longing intensified while reading "The Little Prince", while imagining a little boy travelling between stars and planets of different sizes and shapes.
