@@ -5,7 +5,7 @@
 
 For the final project, I want to create a VR environment in which cooperation with other players is key to success. For some time I have been fascinated by a game called "Keep Talking and Nobody Explodes". It's a game in which a lay person is locked inside a room with a time bomb, and must diffuse it with the help of experts who has a manual for deactivating the bomb. The neat thing is, the expert cannot see or interact with the bomb, so they must literally continue talking in order to make sure the bomb is diffused.
 
-![alt text](https://www.playstation.com/en-us/games/keep-talking-and-nobody-explodes-ps4/ "Keep Talking and Nobody Explodes")
+![alt text](https://i.ytimg.com/vi/__cK-amlKPo/maxresdefault.jpg "Keep Talking and Nobody Explodes")
 
 However, in this experience, only the player in the bomb room is experiencing the VR, and the rest of the players are just sitting around and reading a manual. The manual itself is also fixed, so if a player plays the game enough times, there is no real need for any cooperations as the player can simply just remember all of the necessary information.
 
