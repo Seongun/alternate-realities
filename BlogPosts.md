@@ -1,5 +1,15 @@
 # Blog Posts for Alternate Realities
 
+## March 27th -  Invisible City
+
+Dorothea is a city which Marco Polo describes as a city that has two descriptions.
+One may see it as a city in which there exists a complete rationalization, with division and sectorization of different parts of the city. Each part of the city has different functionalities, with almost sterile distinction and set rules by which the system works. Each section has a set number of houses, set number of chimneys, and so forth. The city can present itself as a limitation on one's actions, where it provides set number of options one must choose from.
+
+One may also see it as a city, as the camel driver did, in thinking that this is a city with wonders and beauties, with endless choices that are present from the moment you encounter the city.
+
+This city reminds me of the idea that from within life may appear as a repetition, yet from within the days and continuations are all different, all unique, and all valuable. that's why I liked this city a lot. 
+
+
 ## March 13th -  Third Project Idea
 
 
