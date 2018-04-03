@@ -1,5 +1,12 @@
 # Blog Posts for Alternate Realities
 
+
+## April 3rd - Light Environment
+
+![alt text](http://world.kbs.co.kr/special/unesco/common/images/excellent_unesco1_5.jpg "석굴암")
+
+Seokgulam is a renowned heritage site in Korea that I visited when I was younger. Entering a narrow viewspot from which one could observe the statue of Buddha, I remembered being awed by the sheer presence and warmth the statue provided. There is a warm spotlight on the Buddha, from the top, giving an other-wordly feeling to the statue. The statue stands out as a bright contrast against the rest of the room which is a little less bright in comparison, with some forms of shadow taking place here and there. This arrangements of the room makes the lighting feel like an aura around the statue. This works in unison with the rustic tone of the color, by which the warmth of seemingly the Buddha himself spreads. As a whole it works really well to provide a deitic feeling to the statue, of a warm figure that is all loving and embracing. 
+
 ## March 27th -  Invisible City
 
 Dorothea is a city which Marco Polo describes as a city that has two descriptions.
